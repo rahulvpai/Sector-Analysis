@@ -1,3 +1,5 @@
+#CREATES A NEW CSV FILE WHICH CAN BE USED FOR VISUALIZATION
+
 from sector_analysis import Sector,report
 import pandas as pd
 import calendar
